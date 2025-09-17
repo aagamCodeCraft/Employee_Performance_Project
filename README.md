@@ -4,6 +4,13 @@
 
 **Tech stack:** Python (Pandas) → data cleaning, Power BI → dashboard & DAX.
 
+---
+
+## 📊 Dashboard Preview
+![Employee Dashboard](exports/dashboard.png)
+
+---
+
 ## Files
 - `data/employee_data.csv` — sample dataset
 - `data/processed_employee_data.xlsx` — processed with performance score
@@ -23,5 +30,7 @@
 ## Findings (example)
 - Sales & IT show higher average performance.
 - Some Sales reps have high sales but lower feedback; targeted training recommended.
+
+---
 
 **Contact:** aagamjainaj12@gmail.com
