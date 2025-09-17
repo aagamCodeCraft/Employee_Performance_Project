@@ -7,7 +7,7 @@
 ---
 
 ## 📊 Dashboard Preview
-![Employee Dashboard](E:\Employee_Performance_Project\Employee_Performance_Project\exports\Screenshot 2025-09-18 021241.png)
+![Employee Dashboard](exports/dashboard.png)
 
 ---
 
